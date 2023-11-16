@@ -13,6 +13,7 @@ I'm Fawad Ahmed Raza, a passionate MERN (MongoDB, Express.js, React, Node.js) st
 - **Other Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 - **Cloud Services:** ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-232F3E?logo=amazonaws&logoColor=white&style=flat) ![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?logo=amazonaws&logoColor=white&style=flat) ![AWS Cognito](https://img.shields.io/badge/-AWS_Cognito-FF9900?logo=amazonaws&logoColor=white&style=flat) ![AWS Rekognition](https://img.shields.io/badge/-AWS_Rekognition-FF9900?logo=amazonaws&logoColor=white&style=flat) ![AWS Codestar](https://img.shields.io/badge/-AWS_Codestar-232F3E?logo=amazonaws&logoColor=white&style=flat) ![AWS RDS](https://img.shields.io/badge/-AWS_RDS-FF9900?logo=amazonaws&logoColor=white&style=flat) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
 
+
 ## Get in Touch
 
 Feel free to reach out for collaboration, questions, or just to connect:
