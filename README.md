@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Fawad Ahmed Raza, a passionate MERN (MongoDB, Express.js, React, Nextjs, React Native Node.js) stack developer dedicated to crafting high-quality applications. With 4 years of experience in web development, I thrive on creating scalable, efficient, and user-friendly solutions.
+I'm Fawad Ahmed Raza, a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer dedicated to crafting high-quality applications. With 4 years of experience in web development, I thrive on creating scalable, efficient, and user-friendly solutions.
 
 ## Technologies I Love
 
@@ -17,7 +17,7 @@ I'm Fawad Ahmed Raza, a passionate MERN (MongoDB, Express.js, React, Nextjs, Rea
 
 Feel free to reach out for collaboration, questions, or just to connect:
 
-- LinkedIn [www.linkedin.com/in/fawadahmedraza](link-to-profile)
+- LinkedIn [www.linkedin.com/in/fawadahmedraza](www.linkedin.com/in/fawadahmedraza)
 - Email: fawadahmedr@gmail.com
 
 ## Let's Code Together!
