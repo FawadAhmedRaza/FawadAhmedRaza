@@ -1,4 +1,4 @@
-# Welcome to.Fawad Ahmed Raza's GitHub Profile! 👋
+# Welcome to Fawad Ahmed Raza's GitHub Profile! 👋
 
 ## About Me
 
