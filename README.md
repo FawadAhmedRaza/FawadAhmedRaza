@@ -17,7 +17,7 @@ I'm Fawad Ahmed Raza, a passionate MERN (MongoDB, Express.js, React, Node.js) st
 
 Feel free to reach out for collaboration, questions, or just to connect:
 
-- LinkedIn ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin) (www.linkedin.com/in/fawadahmedraza)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fawadahmedraza)
 - Email: fawadahmedr@gmail.com 📧
 
 ## Let's Code Together! 💻
