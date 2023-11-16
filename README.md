@@ -6,7 +6,7 @@ I'm Fawad Ahmed Raza, a passionate MERN (MongoDB, Express.js, React, Node.js) st
 
 ## Technologies I Love
 
-- **Frontend:** Nextjs, React.js, Redux, HTML, CSS, JavaScript, Typescript
+- **Frontend:** Next.js, React.js, Redux, HTML, CSS, JavaScript, Typescript
 - **Backend:** Node.js, Express.js, AWS Lambda
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **ORMs:** Prisma, Sequalize
@@ -17,10 +17,10 @@ I'm Fawad Ahmed Raza, a passionate MERN (MongoDB, Express.js, React, Node.js) st
 
 Feel free to reach out for collaboration, questions, or just to connect:
 
-- LinkedIn [www.linkedin.com/in/fawadahmedraza](www.linkedin.com/in/fawadahmedraza)
-- Email: fawadahmedr@gmail.com
+- LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/fawadahmedraza) 
+- Email: fawadahmedr@gmail.com 📧
 
-## Let's Code Together!
+## Let's Code Together! 💻
 
 I'm passionate about collaboration and learning from others. Let's build something amazing together! Feel free to explore my repositories and reach out if you'd like to collaborate on any project or discuss ideas.
 
